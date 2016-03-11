@@ -16,3 +16,7 @@ header-img: "img/post-head-whale.jpg"
     <img src="{{ site.baseurl }}/img/post-body-whale.jpg" alt="Post Sample Image">
 </a>
 <iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/v/mn5a3XJhJd4?autoplay=0" frameborder="0" allowfullscreen></iframe>
+
+<br><br>
+
+<iframe width="100%" height="520" frameborder="0" src="https://dymeagher.cartodb.com/viz/7614ffc4-afce-11e5-a5ba-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
