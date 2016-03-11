@@ -42,4 +42,3 @@ header-img: "img/post-bg-06.jpg"
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/v/mn5a3XJhJd4?autoplay=1" frameborder="0" allowfullscreen></iframe>
