@@ -88,3 +88,56 @@ header-img: "img/post-head-whale.jpg"
 </script>
 
 <p>Finally, get it working now!</p>
+
+
+
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+// $(function() {
+  Highcharts.setOptions({
+    lang: {
+      thousandsSep: ','
+    }
+  });
+  $('#container').highcharts({
+    chart: {
+      type: 'line'
+    },
+    title: {
+      text: 'Median Household Income With and W/out Stations'
+    },
+    xAxis: {
+      categories: ['Without Stns', 'With Stns']
+    },
+    yAxis: {
+      title: {
+        text: 'Median Income'
+      }
+    },
+    plotOptions: {
+      line: {
+        dataLabels: {
+          enabled: true,
+        },
+        enableMouseTracking: false
+      }
+    },
+    series: [{
+      name: 'NYC',
+      data: [63470, 91420],
+      color: '#ff9900'
+    }, {
+      name: 'DC',
+      data: [89820, 86820],
+      color: '#0066ff'
+    }, {
+      name: 'Chi',
+      data: [52060, 58500],
+      color: '#339933'
+    }]
+  });
+//});
