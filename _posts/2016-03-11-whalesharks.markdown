@@ -17,9 +17,6 @@ header-img: "img/post-head-whale.jpg"
 </a>
 
 
-<div id='highcharts-edupib'><script src='//cloud.highcharts.com/inject/edupib' defer='defer'></script></div>
-<br><br>
-
 <iframe width="100%" height="520" frameborder="0" src="https://dymeagher.cartodb.com/viz/7614ffc4-afce-11e5-a5ba-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
@@ -85,9 +82,4 @@ header-img: "img/post-head-whale.jpg"
 </script>
 
 
-
-
-
-
-<p>Finally, get it working now!</p>
 
