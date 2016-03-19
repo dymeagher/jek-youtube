@@ -15,7 +15,9 @@ header-img: "img/post-head-whale.jpg"
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-body-whale.jpg" alt="Post Sample Image">
 </a>
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/v/mn5a3XJhJd4?autoplay=0" frameborder="0" allowfullscreen></iframe>
+
+
+<script async src="//jsfiddle.net/dymeagher/obfxurmw/embed/result/"></script>
 
 <br><br>
 
