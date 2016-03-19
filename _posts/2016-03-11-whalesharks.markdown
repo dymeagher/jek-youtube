@@ -91,10 +91,17 @@ header-img: "img/post-head-whale.jpg"
 
 
 
-<script src="https://code.highcharts.com/highcharts.js"></script>
-<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
+</script>
+<script type="text/javascript" src="http://code.highcharts.com/highcharts.js">
+</script>
+<script type="text/javascript" src="http://code.highcharts.com/modules/exporting.js">
+</script></p>
 
-<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+<!---<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">-->
+<div id="container" style="width: 600px; height: 400px; margin: 0 auto">
+</div>
+<script type="text/javascript">
 
 
 // $(function() {
