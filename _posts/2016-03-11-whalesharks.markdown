@@ -83,6 +83,10 @@ header-img: "img/post-head-whale.jpg"
 
 <br>
 
+{% comment %}
+{% the following container is "container1" otherwise the containers (above abnd below) will get mixed up %}
+{% endcomment %}
+
 
 <!---<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">-->
 <div id="container1" style="width: 600px; height: 400px; margin: 0 auto">
