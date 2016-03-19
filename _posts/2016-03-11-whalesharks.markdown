@@ -85,14 +85,14 @@ header-img: "img/post-head-whale.jpg"
 
 
 <!---<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">-->
-<div id="container" style="width: 600px; height: 400px; margin: 0 auto">
+<div id="container1" style="width: 600px; height: 400px; margin: 0 auto">
 </div>
 <script type="text/javascript">
 
 
 //$(function() {
 
-  $('#container').highcharts({
+  $('#container1').highcharts({
 
     chart: {
       type: 'column'
