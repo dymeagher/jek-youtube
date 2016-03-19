@@ -84,16 +84,6 @@ header-img: "img/post-head-whale.jpg"
 <br>
 
 
-
-
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js">
-</script>
-<script type="text/javascript" src="http://code.highcharts.com/highcharts.js">
-</script>
-<script type="text/javascript" src="http://code.highcharts.com/modules/exporting.js">
-</script>
-
 <!---<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">-->
 <div id="container" style="width: 600px; height: 400px; margin: 0 auto">
 </div>
@@ -102,12 +92,6 @@ header-img: "img/post-head-whale.jpg"
 
 //$(function() {
 
-  Highcharts.setOptions({
-    lang: {
-      thousandsSep: ','
-    }
-  });
-	
   $('#container').highcharts({
 
     chart: {
