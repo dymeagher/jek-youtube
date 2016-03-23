@@ -102,7 +102,7 @@ header-img: "img/post-head-whale.jpg"
       text: 'Zip Codes With and Without Bike Stations'
     },
     legend: {
-      width: 270
+      width: 290
     },
     xAxis: {
       categories: ['$0-35k', '$35-70k', '$70-105k', '$105k+']
