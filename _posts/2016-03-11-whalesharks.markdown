@@ -17,7 +17,7 @@ header-img: "img/post-head-whale.jpg"
 </a>
 
 
-<iframe width="100%" height="520" frameborder="0" src="https://dymeagher.cartodb.com/viz/7614ffc4-afce-11e5-a5ba-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="450" frameborder="0" src="https://dymeagher.cartodb.com/viz/7614ffc4-afce-11e5-a5ba-0e787de82d45/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <br>
 
@@ -29,7 +29,7 @@ header-img: "img/post-head-whale.jpg"
 </script>
 
 <!---<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">-->
-<div id="container" style="min-width: 100%; height: 400px; margin: 0 auto">
+<div id="container" style="min-width: 310; height: 400px; margin: 0 auto">
 </div>
 <script type="text/javascript">
 
@@ -86,7 +86,7 @@ header-img: "img/post-head-whale.jpg"
 <!--The following container is "container1" otherwise the containers (above abnd below) will get mixed up %} -->
 
 <!--<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto">-->
-<div id="container1" style="min-width: 310px; height: 400px; margin: 0 auto">
+<div id="container1" style="min-width: 310; height: 400px; margin: 0 auto">
 </div>
 <script type="text/javascript">
 
@@ -102,7 +102,7 @@ header-img: "img/post-head-whale.jpg"
       text: 'Zip Codes With and Without Bike Stations'
     },
     legend: {
-      width: 300
+      width: 270
     },
     xAxis: {
       categories: ['$0-35k', '$35-70k', '$70-105k', '$105k+']
